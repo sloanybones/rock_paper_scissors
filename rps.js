@@ -28,9 +28,7 @@ return htmlString;
 
 
 
-const decide = () => {
 
-}
 
 
 
